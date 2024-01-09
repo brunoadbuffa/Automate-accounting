@@ -1,0 +1,157 @@
+id,fecha_vencimiento,divisa,nombre_cliente,fecha_emision,importe,concepto
+10002183,2022-10-04,EUR,REMESASBANCOS,2022-10-04,"-9269,25",Remesa 04-10-2022
+FSABV-2679,2023-03-14,EUR,"Pluvisilva, S.L.",2022-12-14,-2856,Honorarios 4T 2022
+10002205,2022-10-28,EUR,REMESASBANCOS,2022-10-28,"-2674,69",Remesa 28-10-2022
+10002227,2022-11-30,EUR,REMESASBANCOS,2022-11-30,"-2674,69",Remesa 30-11-2022
+10002238,2022-12-19,EUR,REMESASBANCOS,2022-12-19,"-2447,42",Remesa 19-12-2022
+FSABV-2351,2022-10-01,EUR,Empresa 1,2022-10-01,"-2438,88",Alquiler Oficina Barcelona Oct 2022
+FSABV-2501,2022-11-01,EUR,Empresa 1,2022-11-01,"-2438,88",Alquiler Oficina Barcelona Nov 2022
+FSABV-2621,2022-12-01,EUR,Empresa 1,2022-12-01,"-2438,88",Alquiler Oficina Barcelona Dic 2022
+FSABV-2353,2022-10-05,EUR,"Monday By Urbania 4, S.L.",2022-10-01,"-2300,97",Fianza + Alquiler Oficina Madrid Oct 2022
+FSABV-2623,2022-12-05,EUR,"Monday By Urbania 4, S.L.",2022-12-01,"-1858,08",Alquiler Oficina Madrid Dic 2022
+FSABV-2503,2022-11-05,EUR,"Monday By Urbania 4, S.L.",2022-11-01,"-1854,69",Alquiler Oficina Madrid Nov 2022
+FSABV-2680,2022-12-15,EUR,"Becat, S.L.",2022-12-15,-1836,Honorarios 4T 2022
+10002190,2022-10-10,EUR,REMESASBANCOS,2022-10-10,"-1534,28",Remesa 10-10-2022
+FSABV-2612,2022-12-01,EUR,"Vinyals Corredora d’Assegurances, S.A.",2022-12-01,"-1440,39","Pol. EA10PI1329 Seguro Serv. Marketing, Publicidad y Diseño (01/11/2022 - 01/05/2023)"
+FSABV-2352,2022-10-05,EUR,Hijos de Mercedes Prieto CB,2022-10-01,"-1144,37",Alquiler Oficina Vigo Oct 2022
+FSABV-2502,2022-11-05,EUR,Hijos de Mercedes Prieto CB,2022-11-01,"-1144,37",Alquiler Oficina Vigo Nov 2022
+FSABV-2622,2022-12-05,EUR,Hijos de Mercedes Prieto CB,2022-12-01,"-1144,37",Alquiler Oficina Vigo Dic 2022
+FSABV-2624,2022-12-01,EUR,"Inversiones Mobiliarias e Inmobiliarias, S.L.",2022-12-01,"-959,94",Alquiler Ballester 40-42 Dic 2022 + Suministros Agua y Luz
+FSABV-2355,2022-10-01,EUR,"Inversiones Mobiliarias e Inmobiliarias, S.L.",2022-10-01,"-926,17",Alquiler Ballester 40-42 Oct 2022 + Suministros Agua y Luz
+FSABV-2563,2022-11-24,EUR,"Vinyals Corredora d’Assegurances, S.A.",2022-11-24,"-517,14",Poliza Pól. EA16FB1067 Seguro Responsabilidad Civil Directivos (17/11/2022 – 17/11/2023)
+10002222,2022-11-18,EUR,REMESASBANCOS,2022-11-18,"-487,8",Remesa 18-11-2022
+FSABV-2644,2023-01-05,EUR,"About PR, S.L.",2022-12-05,"-459,8",Honorarios Estrategia y Consultoria y Relaciones con los Medios Dic 2022
+FSABV-2455,2022-11-30,EUR,"RSM Spain Asesores Legales y Tributarios, SLP",2022-10-31,"-445,28",Asesoramiento Legal Oct 2022
+FSABV-2560,2022-12-30,EUR,"RSM Spain Asesores Legales y Tributarios, SLP",2022-11-30,"-445,28",Asesoramiento Legal Nov 2022
+FSABV-2552,2022-12-29,EUR,"Project Building CTTEAM, S.L.",2022-11-29,"-432,89",Reparaciones Of Bcn
+FSABV-2647,2023-01-05,EUR,Empresa 2,2022-12-07,"-367,2",Alquiler Oficina A Coruña Dic 2022
+10002200,2022-10-21,EUR,REMESASBANCOS,2022-10-21,"-358,93",Remesa 21-10-2022
+FSABV-2363,2022-12-01,EUR,"Mitanni Consultores Asoc, S.L.P.",2022-10-01,"-350,9",Minuta Honorarios Oct 2022
+FSABV-2494,2023-01-02,EUR,"Mitanni Consultores Asoc, S.L.P.",2022-11-01,"-350,9",Minuta Honorarios Nov 2022
+FSABV-2630,2023-02-01,EUR,"Mitanni Consultores Asoc, S.L.P.",2022-12-01,"-350,9",Minuta Honorarios Dic 2022
+FSABV-2354,2022-10-05,EUR,Empresa 2,2022-10-01,"-303,96",Alquiler Oficina A Coruña Oct 2022
+FSABV-2504,2022-11-05,EUR,"informatica boss, S.L.",2022-11-02,"-303,96",Alquiler Oficina A Coruña Nov 2022
+FSABV-2637,2023-01-02,EUR,Restaurante Espacio Gastronomico Sl.,2022-12-01,-302,Cena Navidad 2022 Of Vig
+FSABV-2411,2022-11-14,EUR,PEPE,2022-10-13,"-297,85",Taller Grafico de Arte
+FSABV-2487,2022-12-01,EUR,"Cu2 Cloud Tec Store, S.L.",2022-11-01,"-293,18",Google Workspace Oct 2022
+FSABV-2488,2022-11-01,EUR,"DKV Seguros y Reaseguros, S.A.E.",2022-11-01,"-292,35",Mutua DKV Seguros Nov 2022
+FSABV-2289,2022-10-31,EUR,"Cu2 Cloud Tec Store, S.L.",2022-09-30,"-292,13",Google Workspace Sep 2022
+FSABV-2199,2022-09-30,EUR,"Cu2 Cloud Tec Store, S.L.",2022-08-31,"-289,86",Google Workspace Ago 2022
+FSABV-2364,2022-11-01,EUR,Interactive Advertising Bureau Spain - IAB Spain,2022-10-01,"-271,8",Cuota Trimestral 4 2022
+10002218,2022-11-14,EUR,REMESASBANCOS,2022-11-14,"-259,47",Remesa 14-11-2022
+FSABV-2362,2022-10-01,EUR,"DKV Seguros y Reaseguros, S.A.E.",2022-10-01,"-255,81",Mutua DKV Seguros Oct 2022
+FSABV-2369,2022-11-01,EUR,,2022-10-02,"-232,31",Cuota Leasing 32/60 Oct 2022
+FSABV-2564,2022-12-01,EUR,,2022-11-02,"-232,31",Cuota Leasing 33/60 Nov 2022
+FSABV-2639,2023-01-01,EUR,,2022-12-02,"-232,31",Cuota Leasing 34/60 Dic 2022
+FSABV-2202,2022-09-30,EUR,"Green Net Professional Services, SL",2022-08-31,"-223,16",Limpieza Oficina Barcelona Ago 2022
+FSABV-2286,2022-10-31,EUR,"Green Net Professional Services, SL",2022-09-30,"-223,16",Limpieza Oficina Barcelona Sep 2022
+FSABV-2556,2022-12-30,EUR,"Green Net Professional Services, SL",2022-11-30,"-223,16",Limpieza Oficina Barcelona Nov 2022
+FSABV-2287,2022-10-31,EUR,"LHYP Aslym, S.L.",2022-09-30,"-195,87",Limpieza Oficina Vigo Sep 2022
+FSABV-2450,2022-11-30,EUR,"LHYP Aslym, S.L.",2022-10-31,"-195,87",Limpieza Oficina Vigo Oct 2022
+FSABV-2557,2022-12-30,EUR,"LHYP Aslym, S.L.",2022-11-30,"-195,87",Limpieza Oficina Vigo Nov 2022
+FSABV-2278,2022-09-23,EUR,"Quiron Prevencion, S.L.U.",2022-09-23,"-191,6",Cuota 4T 2022 Prevencion Integral
+10002211,2022-11-04,EUR,REMESASBANCOS,2022-11-04,"-183,85",Remesa 04-11-2022
+10002226,2022-11-25,EUR,REMESASBANCOS,2022-11-25,"-148,38",Remesa 25-11-2022
+FSABV-2460,2022-10-25,EUR,"Vinyals Corredora d’Assegurances, S.A.",2022-10-25,"-135,87",Poliza 8211500026350 Seguro Of. Barcelona (19/10/2022 - 19/10/2023)
+10002193,2022-10-14,EUR,REMESASBANCOS,2022-10-14,"-122,93",Remesa 14-10-2022
+FSABV-2554,2022-12-25,EUR,"Ciutat Vella Courier, S.L.",2022-11-30,"-106,2",MRW Of. Bcn Nov 2022
+FSABV-2483,2022-10-14,EUR,"El Iot Blau, S.L.",2022-10-14,"-104,41",Comida 8 pax
+FSABV-2412,2022-11-14,EUR,Marc,2022-10-13,"-103,37",Taller Grafico de Arte
+FSABV-2378,2022-10-05,EUR,"Aire Networks del Mediterraneo, S.L.U.",2022-10-05,"-99,04",Consumo Movil Sep 2022
+FSABV-2510,2022-11-05,EUR,"Aire Networks del Mediterraneo, S.L.U.",2022-11-05,"-89,74",Consumo Movil Oct 2022
+FSABV-2646,2022-12-05,EUR,"Aire Networks del Mediterraneo, S.L.U.",2022-12-05,"-86,37",Consumo Movil Nov 2022
+FSABV-2453,2022-11-30,EUR,"Paopao Digital, S.L.",2022-10-31,"-84,7",Bono de 500 Digitalizaciones 2022
+FSABV-2525,2022-12-16,EUR,"Paopao Digital, S.L.",2022-11-16,"-84,7",Bono de 500 Digitalizaciones 2022
+FCNG-889,2022-10-15,EUR,Juan,2022-09-30,"-75,75",Nota de Gastos Sep 2022
+FSABV-2493,2022-12-01,EUR,"Holaluz - Clidom, S.A.",2022-11-01,"-74,69",Luz Oct 2022 Of. Vig (Contador: 044492569)
+FSABV-2377,2022-11-07,EUR,Adventure SPJ,2022-10-05,-66,Evento Actividad Humor Amarillo WeAreFun Oficina VIG
+FSABV-2200,2022-09-01,EUR,Tomás Gil,2022-08-31,"-63,6",Asesoria Fiscal y Contable Ago 2022
+FSABV-2285,2022-10-01,EUR,Tomás Gil,2022-09-30,"-63,6",Asesoria Fiscal y Contable Sep 2022
+FSABV-2553,2022-12-01,EUR,Tomás Gil,2022-11-30,"-63,6",Asesoria Fiscal y Contable Nov 2022
+FSABV-2390,2022-11-14,EUR,SV Internet S.L,2022-10-13,"-60,11",Plan ISP Linux serv057797 (13/10/2022-12/01/2023)
+FSABV-2530,2023-02-17,EUR,Ajuntament De Barcelona,2022-11-17,"-53,99",Tasa Recogida de Residuos 2022 C/Zamora 46-48
+FSABV-2382,2022-10-04,EUR,Zurich Vida Compañía de Seguros y Reaseguros S.A.,2022-10-04,"-53,72",Seguros Vida .4T 2022  (Pol. 50025204)
+FSABV-2356,2022-11-01,EUR,"Holaluz - Clidom, S.A.",2022-10-01,"-52,3",Luz Sep 2022 Of. Vig (Contador: 044492569)
+FSABV-2459,2022-10-24,EUR,"Vinyals Corredora d’Assegurances, S.A.",2022-10-24,"-51,87",Poliza 8211800019560 Seguro Oficina Madrid (01/10/2022 - 01/10/2023)
+FSABV-2420,2022-11-17,EUR,Compañía 1,2022-10-17,-50,Reserva Cena Navidad 2022 Of Mad
+FSABV-2284,2022-10-05,EUR,"Pafoba, S.L.",2022-09-29,"-49,13",Suscripcion Gaddex Sep 2022
+FSABV-2443,2022-11-05,EUR,"Pafoba, S.L.",2022-10-29,"-49,13",Suscripcion Gaddex Oct 2022
+FSABV-2551,2022-12-05,EUR,"Pafoba, S.L.",2022-11-29,"-49,13",Suscripcion Gaddex Nov 2022
+FSABV-2709,2023-02-27,EUR,"Grupo Semola, S.L.",2022-12-26,"-44,6",Picoteo Dic 2022 WeAreFun Oficina VIG
+FSABV-2350,2022-06-13,EUR,Tarinada SL,2022-06-13,"-40,55",Comida 4 pax
+FSABV-2651,2022-12-10,EUR,"Masvoz Telecomunicaciones Interactivas, S.L.",2022-12-10,"-39,69",masvoz - Bizphone Nov 2022
+FSABV-2704,2023-03-15,EUR,inventada2,2022-12-22,"-39,2",Hosting Mensual Basico + 1 usuario Mendual SAAS
+FSABV-2518,2022-11-10,EUR,"Masvoz Telecomunicaciones Interactivas, S.L.",2022-11-10,"-39,11",masvoz - Bizphone Oct 2022
+FSABV-2381,2022-10-10,EUR,"Masvoz Telecomunicaciones Interactivas, S.L.",2022-10-10,"-39,08",masvoz - Bizphone Sep 2022
+FSABV-2725,2023-01-31,EUR,"The Stikets Company, S.L.",2022-12-31,"-38,72",Pegatinas Corporativas Troqueladas Personalizadas
+FSABV-2452,2022-11-30,EUR,"Paopao Digital, S.L.",2022-10-31,"-37,03",10 Usuarios Sabbatic + 7 Extra
+FSABV-2387,2022-10-11,EUR,"Panadería El Trigal, S.L.",2022-10-11,"-34,2",Regalo Aniversario
+FSABV-2383,2022-10-04,EUR,Zurich Vida Compañía de Seguros y Reaseguros S.A.,2022-10-04,"-33,21",Seguros Vida 4T 2022 (Pol. 50025238)
+FSABV-2291,2022-10-31,EUR,"Paopao Digital, S.L.",2022-09-30,"-32,67",10 Usuarios Sabbatic + 5 Extra
+FSABV-2558,2022-12-30,EUR,"Paopao Digital, S.L.",2022-11-30,"-30,49",10 Usuarios Sabbatic + 4 Extra
+FSABV-2233,2022-09-30,EUR,"Paopao Digital, S.L.",2022-08-31,"-23,96",10 Usuarios Sabbatic + 1 Extra
+FSABV-2568,2022-11-12,EUR,"Vinyals Corredora d’Assegurances, S.A.",2022-11-12,"-23,78",Poliza 07694054470 Seguro de Viaje a Mexico (25/10/2022 - 30/10/2022)
+FSABV-2288,2022-10-25,EUR,"Ciutat Vella Courier, S.L.",2022-09-30,"-23,35",MRW Of. Bcn Sep 2022
+FSABV-2662,2022-12-12,EUR,"Aigües de Barcelona, Empresa Metropolitana de Gestió Aigüa",2022-12-12,"-23,15",Agua C/Reina Cristina (30 Sep 2022 - 30 Nov 2022)
+FSABV-2414,2022-11-14,EUR,"ABOGADOS LEGAL, S.L.P.",2022-10-14,"-22,38",Honorarios Oct 2022
+FSABV-2522,2022-12-15,EUR,"ABOGADOS LEGAL, S.L.P.",2022-11-15,"-22,38",Honorarios Nov 2022
+FSABV-2681,2023-01-16,EUR,"ABOGADOS LEGAL, S.L.P.",2022-12-15,"-22,38",Honorarios Dic 2022
+FSABV-2349,2022-11-01,EUR,SV Internet S.L,2022-10-01,"-20,04",Ampliación de Recursos Hosting Plan ISP Linux (01/10/2022-31/10/2022)
+FSABV-2486,2022-12-01,EUR,SV Internet S.L,2022-11-01,"-20,04",Ampliación de Recursos Hosting Plan ISP Linux (01/11/2022-30/11/2022)
+FSABV-2671,2022-12-13,EUR,Telefónica De España S.A.U.,2022-12-13,"-19,88",Telf.: 932683188 (VPN) Dic 2022
+FSABV-2565,2022-11-04,EUR,Telefónica De España S.A.U.,2022-11-04,"-19,45",Telf.: 932683188 (VPN) Nov 2022
+FSABV-2393,2022-10-01,EUR,Alicia,2022-10-01,"-18,87",Renting Agua Cuota Oct 2022
+FSABV-2485,2022-11-01,EUR,Alicia,2022-11-01,"-18,87",Renting Agua Cuota Oct 2022
+FSABV-2617,2022-12-01,EUR,Alicia,2022-12-01,"-18,87",Renting Agua Cuota Dic 2022
+FSABV-2394,2022-10-01,EUR,Securitas Direct España,2022-10-01,"-17,64",Seguridad Oficina Oct 2022
+FSABV-2490,2022-11-01,EUR,Securitas Direct España,2022-11-01,"-17,64",Seguridad Oficina Nov 2022
+FSABV-2633,2022-12-01,EUR,Securitas Direct España,2022-12-01,"-17,64",Seguridad Oficina Dic 2022
+FSABV-2461,2022-12-22,EUR,"29 Ecologica, S.L.U.",2022-09-22,"-17,18",Daños por Contaminacion Medioambiental
+FSABV-2669,2023-03-13,EUR,Auxi-Foc. S.L.,2022-12-13,"-13,31","Revision Anual Aparato Extintor NC-5, NC-2 y PI-6"
+FSABV-2376,2022-10-04,EUR,Telefónica De España S.A.U.,2022-10-04,"-10,35",Telf.: 932683188 (VPN) Oct 2022
+FSABV-2638,2022-12-01,EUR,Andrea Cuevas,2022-12-01,-10,Reserva Cena Navidad 2022 Of A Cor
+FSABV-2492,2022-12-01,EUR,"Holaluz - Clidom, S.A.",2022-11-01,-10,Luz Oct 2022 Of. Vig (Contador: 155230830)
+FSABV-2358,2022-11-01,EUR,"Holaluz - Clidom, S.A.",2022-10-01,"-9,2",Luz Sep 2022 Of. Vig (Contador: 155230830)
+FSABV-2361,2022-10-01,EUR,PepeMobile SL,2022-10-01,"-7,78",Cuota Fibra Sep 2022 + Consumo Movil Sep 2022 -
+FSABV-2489,2022-11-01,EUR,PepeMobile SL,2022-11-01,"-7,78",Cuota Fibra Oct 2022 + Consumo Movil Oct 2022 -  ()
+FSABV-2632,2022-12-01,EUR,PepeMobile SL,2022-12-01,"-7,78",Cuota Fibra Nov 2022 + Consumo Movil Nov 2022
+FSABV-2365,2022-10-01,EUR,Telefónica De España S.A.U.,2022-10-01,"-7,6",Tarifa O2 Fibra Sep 2022
+FSABV-2495,2022-11-01,EUR,Telefónica De España S.A.U.,2022-11-01,"-7,6",Tarifa O2 Fibra Oct 2022
+FSABV-2635,2022-12-01,EUR,Telefónica De España S.A.U.,2022-12-01,"-7,6",Tarifa O2 Fibra Nov 2022
+FSABV-2491,2022-12-01,EUR,"Holaluz - Clidom, S.A.",2022-11-01,"-7,58",Luz Oct 2022 Of. Vig (Contador: 175631337)
+FSABV-2424,2022-11-21,EUR,SV Internet S.L,2022-10-20,"-7,26",Hosting Base de Datos SQL Server (150MB) ba0630 (20/10/2022-19/11/2022)
+FSABV-2531,2022-12-20,EUR,SV Internet S.L,2022-11-20,"-7,26",Hosting Base de Datos SQL Server (150MB) ba0630 (20/11/2022-19/12/2022)
+FSABV-2695,2023-01-20,EUR,SV Internet S.L,2022-12-20,"-7,26",Hosting Base de Datos SQL Server (150MB) ba0630 (20/12/2022-19/01/2023)
+FSABV-2290,2022-11-30,EUR,"Lyreco España, SA",2022-09-30,"-5,85",Material Oficina Mad
+FSABV-2521,2023-02-15,EUR,"29 Ecologica, S.L.U.",2022-11-15,"-5,5",Kilos de Carton
+FSABV-2357,2022-11-01,EUR,"Holaluz - Clidom, S.A.",2022-10-01,"-5,14",Luz Sep 2022 Of. Vig (Contador: 175631337)
+FSABV-2692,2023-03-20,EUR,"29 Ecologica, S.L.U.",2022-12-20,"-4,4",Kilos de Carton
+FSABV-2374,2022-10-04,EUR,"Morpheus Aiolos, S.L.",2022-10-04,"-4,22",App Afterbanks Oct 2022
+FSABV-2386,2023-01-11,EUR,"29 Ecologica, S.L.U.",2022-10-11,"-3,85",Kilos de Carton
+FSABV-2391,2022-11-14,EUR,SV Internet S.L,2022-10-13,"-3,63",Filtro Antivirus/Antispam Avanzado (13/10/2022-12/01/2023)
+FSABV-2507,2022-11-04,EUR,"Morpheus Aiolos, S.L.",2022-11-04,"-3,63",App Afterbanks Nov 2022
+FSABV-2433,2023-01-25,EUR,"29 Ecologica, S.L.U.",2022-10-25,"-3,3",Kilos de Carton
+FSABV-2375,2022-11-04,EUR,SV Internet S.L,2022-10-04,"-2,9",Hosting DNS ba0630 (04/10/2022-03/11/2022)
+FSABV-2508,2022-12-05,EUR,SV Internet S.L,2022-11-04,"-2,9",Hosting DNS ba0630 (04/11/2022-03/12/2022)
+FSABV-2496,2022-11-01,EUR,"Telefónica Móviles España, S.A.",2022-11-01,-1,Movil: 618652532 O2 Nov 2022
+FSABV-2634,2022-12-01,EUR,"Telefónica Móviles España, S.A.",2022-12-01,-1,Movil: 618652532 O2 Dic 2022
+FSABV-2497,2022-11-01,EUR,"Telefónica Móviles España, S.A.",2022-11-01,"-0,24",Movil: O2 Oct 2022
+IVA,2022-10-20,EUR,,2022-10-01,0,"Pago IRPF 111, 115, 123 2022Q3"
+FSABV-2436,2022-11-05,EUR,"Monday By Urbania 4, S.L.",2022-10-26,"1,45",Abono Parking Sep 2022
+FSABV-2437,2022-11-05,EUR,"Monday By Urbania 4, S.L.",2022-10-26,"1,45",Abono Parking Sep 2022
+FSABV-2258,2022-09-05,EUR,"Monday By Urbania 4, S.L.",2022-09-05,"2,9",Abono Parking Ago 2022
+FVE-12851,2022-09-15,EUR,"Equipzilla, S.L.",2022-08-31,"36,3",Servicios Espacio de Trabajo Ago 2022
+FVE-12853,2022-10-15,EUR,"Equipzilla, S.L.",2022-09-30,"36,3",Servicios Espacio de Trabajo Sep 2022
+FVE-12855,2022-11-30,EUR,"Equipzilla, S.L.",2022-10-31,"36,3",Servicios Espacio de Trabajo Oct 2022
+FEQZ-85,2021-12-01,EUR,Gam España Servicios de Maquinaria S.L.U.,2021-11-01,"106,61",Pack Leads
+FVE-12850,2022-09-15,EUR,"Property Technology Services, S.L.",2022-08-31,"108,9",Servicios Espacio de Trabajo Ago 2022
+FVE-12852,2022-10-15,EUR,"Property Technology Services, S.L.",2022-09-30,"108,9",Servicios Espacio de Trabajo Sep 2022
+FVE-12854,2022-11-30,EUR,"Property Technology Services, S.L.",2022-10-31,"108,9",Servicios Espacio de Trabajo Oct 2022
+FEQZ-74,2021-08-02,EUR,Gam España Servicios de Maquinaria S.L.U.,2021-07-01,"124,58",Pack Leads
+FEQZ-75,2021-09-01,EUR,Gam España Servicios de Maquinaria S.L.U.,2021-08-01,"137,76",Pack Leads
+FVI-47,2023-03-06,EUR,Medios,2022-12-06,2200,Servicios soporte Mexico 2022
+FVI-44,2022-12-30,EUR,TEST EMPRESA S.A S.A. de C.V.,2022-09-30,9200,Servicios Direccion Q2 2022
+FVI-45,2022-12-01,EUR,ELOELO,2022-10-01,"14943,98",Servicios Holding Septiembre 2022
+FVI-48,2023-02-07,EUR,Maks Inventada SL,2022-12-07,15000,Costes estructura Q2/Q3 2022
+FVI-43,2022-11-30,EUR,ELOELO,2022-09-30,"21288,02",Servicios Holding Trimestre 3
+FVI-46,2023-01-30,EUR,ELOELO,2022-11-29,"24653,99",Servicios Holding Octubre
